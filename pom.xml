@@ -90,7 +90,7 @@
   </scm>
 
   <properties>
-    <grpc.version>1.44.1</grpc.version>
+    <grpc.version>1.45.0</grpc.version>
     <protobuf.version>3.19.4</protobuf.version>
     <protoc.version>3.19.4</protoc.version>
     <!-- need to stick to netty version that is used by grpc version above -->
